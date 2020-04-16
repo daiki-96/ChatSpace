@@ -26,4 +26,8 @@ Things you may want to cover:
 |Column|Type|Options|
 |------|----|-------|
 
+|Column|Type|Options|
+|------|----|-------|
+
+
 ### Association
